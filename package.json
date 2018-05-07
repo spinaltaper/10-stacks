@@ -1,0 +1,23 @@
+{
+  "name": "10-stacks",
+  "version": "1.0.0",
+  "description": "![cf](http://i.imgur.com/7v5ASc8.png) lab 10 - Stacks and Queues Data Structures\r ====",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "eslintrc": "^1.0.6",
+    "jest": "^22.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[D\u001b[C"
+  },
+  "author": "",
+  "license": "ISC"
+}
